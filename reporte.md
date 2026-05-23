@@ -27,3 +27,11 @@ Para verificar las ramas existentes se utilizo:
 
 ```bash
 git branch
+---
+
+## 1.10 Subida de cambios al repositorio remoto
+
+Para subir la nueva rama al repositorio remoto se utilizo:
+
+```bash
+git push -u origin rama_1
