@@ -19,3 +19,19 @@ Para verificar si GitHub CLI estaba instalado se utilizo el siguiente comando:
 
 ```bash
 gh --version
+---
+
+## 1.9 Creacion y administracion de ramas
+
+Para verificar las ramas existentes se utilizo:
+
+```bash
+git branch
+---
+
+## 1.10 Subida de cambios al repositorio remoto
+
+Para subir la nueva rama al repositorio remoto se utilizo:
+
+```bash
+git push -u origin rama_1
