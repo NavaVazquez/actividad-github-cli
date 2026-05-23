@@ -19,3 +19,11 @@ Para verificar si GitHub CLI estaba instalado se utilizo el siguiente comando:
 
 ```bash
 gh --version
+---
+
+## 1.9 Creacion y administracion de ramas
+
+Para verificar las ramas existentes se utilizo:
+
+```bash
+git branch
